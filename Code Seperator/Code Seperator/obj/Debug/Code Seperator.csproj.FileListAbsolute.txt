@@ -1,0 +1,7 @@
+C:\Users\Hassan\source\repos\Code Seperator\Code Seperator\bin\Debug\Code Seperator.exe.config
+C:\Users\Hassan\source\repos\Code Seperator\Code Seperator\bin\Debug\Code Seperator.exe
+C:\Users\Hassan\source\repos\Code Seperator\Code Seperator\bin\Debug\Code Seperator.pdb
+C:\Users\Hassan\source\repos\Code Seperator\Code Seperator\obj\Debug\Code Seperator.csprojAssemblyReference.cache
+C:\Users\Hassan\source\repos\Code Seperator\Code Seperator\obj\Debug\Code Seperator.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\source\repos\Code Seperator\Code Seperator\obj\Debug\Code Seperator.exe
+C:\Users\Hassan\source\repos\Code Seperator\Code Seperator\obj\Debug\Code Seperator.pdb
